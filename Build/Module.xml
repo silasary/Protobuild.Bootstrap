@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name>Protobuild.Bootstrap</Name>
+  <DefaultAction>resync</DefaultAction>
+  <GenerateNuGetRepositories>true</GenerateNuGetRepositories>
+  <ProtobuildVersion>3e64736df53f8656aa995177b6ed449f3e2c468d</ProtobuildVersion>
+</Module>

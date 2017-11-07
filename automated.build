@@ -1,0 +1,8 @@
+#version 1
+
+set build-target Rebuild
+set build-property Configuration Release
+set execute-configuration Release
+
+generate
+build

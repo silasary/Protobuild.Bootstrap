@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="Protobuild.Bootstrap" Path="Protobuild.Bootstrap" Type="Console">
+  <Properties>
+    <AssemblyName>Protobuild</AssemblyName>
+  </Properties>
+  <References>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </References>
+  <Files>
+    <Compile Include="FastJSON\Dynamic.cs" />
+    <Compile Include="FastJSON\JSON.cs" />
+    <Compile Include="FastJSON\JsonParser.cs" />
+    <Compile Include="Program.cs" />
+    <Content Include="FastJSON\LICENSE.txt" />
+    <Content Include="FastJSON\README.txt" />
+  </Files>
+</Project>
